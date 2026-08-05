@@ -1,0 +1,30 @@
+<Application x:Class="HiResAudioPlayerTagMaster.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:ui="http://schemas.leandrowd.com/wpf/ui/2021/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/Wpf.Ui;component/Resources/Theme/Dark.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/Wpf.Ui;component/Resources/Wpf.Ui.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+
+            <!-- Custom Audiophile Color Tokens -->
+            <SolidColorBrush x:Key="BgPrimaryBrush" Color="#05070A" />
+            <SolidColorBrush x:Key="BgSecondaryBrush" Color="#0C0F17" />
+            <SolidColorBrush x:Key="SurfaceCardBrush" Color="#141924" />
+            <SolidColorBrush x:Key="AccentAmberBrush" Color="#F59E0B" />
+            <SolidColorBrush x:Key="AccentEmeraldBrush" Color="#10B981" />
+            <SolidColorBrush x:Key="TextPrimaryBrush" Color="#F8FAFC" />
+            <SolidColorBrush x:Key="TextSecondaryBrush" Color="#94A3B8" />
+            <SolidColorBrush x:Key="BorderDarkBrush" Color="#202738" />
+
+            <!-- Default Font Style -->
+            <Style TargetType="TextBlock">
+                <Setter Property="FontFamily" Value="Segoe UI Variable Display, Cascadia Code, Inter, Segoe UI, sans-serif" />
+                <Setter Property="Foreground" Value="{StaticResource TextPrimaryBrush}" />
+            </Style>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
