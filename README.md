@@ -1,6 +1,5 @@
-# Hi-Res Audio Player & Tag Master (ID: `028`)
+# Hi-Res Audio Player & Tag Master
 
-[![Project ID](https://img.shields.io/badge/Project%20ID-028-blue.svg)](https://github.com/hsinidev/028-Hi-Res-Audio-Player-Tag-Master)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Developer](https://img.shields.io/badge/Developer-Hsini%20Mohamed-green.svg)](https://hsini.dev)
 
