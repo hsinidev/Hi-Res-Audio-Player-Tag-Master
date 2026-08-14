@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 Hi Res Audio Player Tag Master
-### *Modern, High-Performance .NET 10 / WPF Solution & Developer Suite*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-C#-512BD4?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-.NET%2010%20/%20WPF-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Hi%20Res%20Audio%20Player%20Tag%20&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Hi Res Audio Player Tag Master Header Banner" />
+
+  <h1>🚀 Hi Res Audio Player Tag Master</h1>
+  <p><em>Modern, High-Performance .NET 10 / WPF Solution & Developer Suite</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-C%23-512BD4?style=for-the-badge" alt="Language: C#" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-.NET%2010%20/%20WPF-6366f1?style=for-the-badge" alt="Framework: .NET 10 / WPF" /></a>
+    <a href="https://github.com/hsinidev/Hi-Res-Audio-Player-Tag-Master"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Hi Res Audio Player Tag Master** is a production-grade **C#** platform engineered for high reliability, clean architectural separation, and frictionless developer workflow.
@@ -25,6 +29,7 @@
 - **Production Ready**: Built-in error resilience, validation, and structured logging.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `C#`
@@ -32,70 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# Hi-Res Audio Player & Tag Master
-
-
-> **Project ID**: `028`  
-> **Repository**: [https://github.com/hsinidev/Hi-Res-Audio-Player-Tag-Master](https://github.com/hsinidev/Hi-Res-Audio-Player-Tag-Master)
-
----
-
-## 📌 Description
-Hi-Res Audio Player & Tag Master is a lossless audio playback engine combined with an ID3/FLAC metadata tag editor.
-
----
-
-## ✨ Features
-- Bit-perfect audiophile playback for FLAC, WAV, ALAC, DSD, and MP3 files
-- Batch ID3v1/ID3v2 and Vorbis comment metadata editing
-- Album artwork extraction, replacement, and embedded cover art management
-- Automatic online track metadata lookup and tagging
-- Custom 10-band equalizer and playback DSP filters
-
----
-
-## 🛠️ Tech Stack & Architecture
-- **Language / Framework**: Python 3.10+ / Qt (PySide6 / PyQt)
-- **Core Modules**: Modular engine architecture, async event dispatching, decoupled utility functions
-- **Target OS**: Windows, macOS, Linux
-
----
-
-## 🚀 Quick Start & Installation
-
-### Prerequisites
-- **Python**: Version 3.10 or higher installed
-- **Git**: Installed for cloning repositories
-
-### Setup Instructions
-```bash
-# 1. Clone the repository
-git clone https://github.com/hsinidev/Hi-Res-Audio-Player-Tag-Master.git
-
-# 2. Navigate to project directory
-cd Hi-Res-Audio-Player-Tag-Master
-
-# 3. Install required dependencies
-pip install -r requirements.txt
-
-# 4. Launch the Application
-python app.py
-```
-*(Note: If `app.py` is absent, launch with `python main.py`)*
-
----
-
-
-- **Website**: [https://hsini.dev](https://hsini.dev)
-- **Email**: [contact@hsini.dev](mailto:contact@hsini.dev)
-- **GitHub Profile**: [https://github.com/hsinidev](https://github.com/hsinidev)
-- **Project Repo**: [https://github.com/hsinidev/Hi-Res-Audio-Player-Tag-Master](https://github.com/hsinidev/Hi-Res-Audio-Player-Tag-Master)
-
----
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
